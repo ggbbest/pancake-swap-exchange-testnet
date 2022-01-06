@@ -27,12 +27,20 @@
       "logoURI": "https://exchange.vpoker.c4ei.net/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
-      "name": "BTCB Token",
-      "symbol": "BTCB",
-      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "name": "Block Chain Korea",
+      "symbol": "BCK",
+      "address": "0x1d187bbecef8d7b1731339c301ab8354d4f0a50b",
       "chainId": 21004,
       "decimals": 18,
-      "logoURI": "https://exchange.vpoker.c4ei.net/images/coins/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+      "logoURI": "https://exchange.vpoker.c4ei.net/images/coins/0x1d187bbecef8d7b1731339c301ab8354d4f0a50b.png"
+    },
+    {
+      "name": "Wrap C4ei",
+      "symbol": "WC4EI",
+      "address": "0x9E63f92c2D1F3826111846bAd89210293C7F4060",
+      "chainId": 21004,
+      "decimals": 18,
+      "logoURI": "https://exchange.vpoker.c4ei.net/images/coins/0x9E63f92c2D1F3826111846bAd89210293C7F4060.png"
     }
   ]
 }
