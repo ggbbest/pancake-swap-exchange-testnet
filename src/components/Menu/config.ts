@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap-testnet.netlify.app/',
+    href: 'https://vpoker.c4ei.net/',
   },
   {
     label: 'Trade',
@@ -21,11 +21,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Exchange',
-        href: 'https://pancakeswap-testnet.netlify.app/#/swap',
+        href: 'https://vpoker.c4ei.net/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://pancakeswap-testnet.netlify.app/#/pool',
+        href: 'https://vpoker.c4ei.net/#/pool',
       },
       {
         label: 'V1 Liquidity (Old)',
@@ -36,32 +36,32 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap-testnet.netlify.app/farms',
+    href: 'https://vpoker.c4ei.net/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswap.finance/pools',
+    href: 'https://vpoker.c4ei.net/pools',
   },
   {
     label: 'Prediction (BETA)',
     icon: 'PredictionsIcon',
-    href: 'https://pancakeswap.finance/prediction',
+    href: 'https://vpoker.c4ei.net/prediction',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery',
+    href: 'https://vpoker.c4ei.net/lottery',
   },
   {
     label: 'Collectibles',
     icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft',
+    href: 'https://vpoker.c4ei.net/nft',
   },
   {
     label: 'Team Battle',
     icon: 'TeamBattleIcon',
-    href: 'https://pancakeswap.finance/competition',
+    href: 'https://vpoker.c4ei.net/competition',
   },
   {
     label: 'Teams & Profile',
@@ -69,15 +69,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Leaderboard',
-        href: 'https://pancakeswap.finance/teams',
+        href: 'https://vpoker.c4ei.net/teams',
       },
       {
         label: 'Task Center',
-        href: 'https://pancakeswap.finance/profile/tasks',
+        href: 'https://vpoker.c4ei.net/profile/tasks',
       },
       {
         label: 'Your Profile',
-        href: 'https://pancakeswap.finance/profile',
+        href: 'https://vpoker.c4ei.net/profile',
       },
     ],
   },
@@ -106,7 +106,7 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo',
+    href: 'https://vpoker.c4ei.net/ifo',
   },
   {
     label: 'More',
@@ -114,11 +114,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Contact',
-        href: 'https://docs.pancakeswap.finance/contact-us',
+        href: 'https://docs.vpoker.c4ei.net/contact-us',
       },
       {
         label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
+        href: 'https://voting.vpoker.c4ei.net',
       },
       {
         label: 'Github',
@@ -126,7 +126,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://docs.pancakeswap.finance',
+        href: 'https://docs.vpoker.c4ei.net',
       },
       {
         label: 'Blog',

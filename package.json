@@ -15,8 +15,8 @@
     "@binance-chain/bsc-connector": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
-    "@ggbbest/sdk": "1.0.1",
-    "@ggbbest/uikit": "^0.2.1",
+    "@nguyenphu27/sdk": "1.0.1",
+    "@nguyenphu27/uikit": "^0.2.1",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
@@ -95,7 +95,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
     "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
-    "integration-test": "start-server-and-test 'serve build -l 3000' http://localhost:3000 'cypress run'"
+    "integration-test": "start-server-and-test 'serve build -l 3001' http://localhost:3001 'cypress run'"
   },
   "husky": {
     "hooks": {
