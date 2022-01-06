@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@nguyenphu27/sdk'
-import { Button, ChevronDownIcon, Text } from '@nguyenphu27/uikit'
+import { Currency, Pair } from '@ggbbest/sdk'
+import { Button, ChevronDownIcon, Text } from '@ggbbest/uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'
 import useI18n from 'hooks/useI18n'

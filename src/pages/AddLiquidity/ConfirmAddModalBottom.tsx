@@ -1,6 +1,6 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@nguyenphu27/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@ggbbest/sdk'
 import React from 'react'
-import { Button, Text } from '@nguyenphu27/uikit'
+import { Button, Text } from '@ggbbest/uikit'
 import { TranslateString } from 'utils/translateTextHelpers'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'
